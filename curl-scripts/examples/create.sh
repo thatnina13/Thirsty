@@ -12,3 +12,4 @@ curl "http://localhost:4741/examples" \
   }'
 
 echo
+# TOKEN=signing token TEXT="what ever you want your text to be" sh <filepath>
