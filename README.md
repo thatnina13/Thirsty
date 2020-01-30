@@ -1,5 +1,7 @@
 
 # README
+
+Thirsty: A SPA
 I live with a man who is constantly popping the bubble of blissful ignorance in which I live. At any given moment, during any part of our conversation, he will deliver a devastating dose of reality which reminds me how lucky I am- how circumstance has blessed me and how so many other people are significantly less lucky. I find him annoying, but only because becoming a better person is a painful, uncomfortable and often guilt ridden process.
 
 That said, not all of his reality checks sink in- after all, I’m am only a human woman and I can only take on so much emotional upheaval. For this reason, coupled with my lack of understanding, I flat out ignored his comments about red meat production and “the water that goes into a hamburger.” It wasn’t until my mom had a health scare and took on a plant based diet in order to reduce the amount of fat in her blood that I started learning about the water we eat. Two things became immediately obvious: first, I am a clueless boob and second: there is a very real lack of information provided to consumers about the water footprints of the products they buy and eat. Thirsty is, as I’ve dreamed it, a tool built for the clueless boobs of the world. I’m not suggesting we all must become vegans or give up coffee. Nor am I claiming to have cracked the water problem or to even have good sustainable habits myself. Case in point: I took three showers yesterday. The third was completely unneeded and functioned purley as a safe place for me to have a good old fashioned 3 am- I-can’t-fix-this-friggin-user-facing-bug cry. Instead, I hope that with easier access to important and meaningful information, more people will have more opportunities to make more sustainable choices.
@@ -36,18 +38,20 @@ AS a Signed in user I would like to be able to scan a product's barcode and see 
 As a signed in user I would like to see a list of times to avoid
 
 # Link to Client Repo:
+https://github.com/thatnina13/Thirsty-client
 
 # Link to Deployed API:
+https://pure-caverns-85190.herokuapp.com/
 
-# # Link to Deployed Client:
-
+# Link to Deployed Client:
+https://thatnina13.github.io/Thirsty-client/
 
 # WireFrames:
 [WireFrames](https://docs.google.com/presentation/d/1W2SffZHU_GG4XdcJ4dphnCWOizSKQjVb7BDzF8hvg1U/edit?usp=sharing)
 
 
 # ERD:
-[Imgur](https://i.imgur.com/ycvIfVA.png)
+[ERD](https://i.imgur.com/ycvIfVA.png)
 
 # Technologies used:
 Ruby
