@@ -1,4 +1,5 @@
 class ProductsController < ProtectedController
+  # before_action :get_water, only: [:create]
   before_action :set_product, only: [:show, :update, :destroy]
 
   # GET /products
@@ -45,6 +46,10 @@ class ProductsController < ProtectedController
     def set_product
       @product = current_user.products.find(params[:id])
     end
+
+    # def get_water
+    #   @footprint = Footprint.find(:id)
+    # end
 
     # Only allow a trusted parameter "white list" through.
     def product_params
